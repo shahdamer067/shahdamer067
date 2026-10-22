@@ -5,7 +5,7 @@
 
 Recent Artificial Intelligence graduate from Alexandria University, interested in building intelligent applications using Machine Learning, Large Language Models, RAG, and multi-agent AI systems.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **AI & Generative AI**
 
@@ -28,45 +28,15 @@ Recent Artificial Intelligence graduate from Alexandria University, interested i
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 - **CMO.AI** — Autonomous Multi-Agent Marketing Platform
 - **Mental Health RAG Chatbot** — Context-aware retrieval-augmented generation
 - **RAG-Guided Booking System** — Booking assistant with a DNN agent
 - **Smart Home Automation** — IoT device control and remote monitoring
 
-## 📫 Connect with Me
+##  Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/shahd-amer-721526256/)
 - [GitHub](https://github.com/shahdamer067)
 
-
-
-
-
-
-
-
-
-
-
-
-# Hi, I'm Shahd 👋
-AI Engineer | Computer Science graduate, Alexandria University
-
-I build multi-agent AI systems, RAG chatbots, and IoT projects.
-
-## Tech
-AI & GenAI:
-Python LangChain CrewAI LLMs RAG FastAPI Streamlit
-
-Development & IoT:
-Flutter Arduino ESP32 MQTT Firebase
-
-## Featured projects
-- CMO.AI: multi-agent marketing platform (3rd place, SRTA-City 2025)
-- Mental Health RAG Chatbot
-- RAG-Guided Booking System
-
-## Contact
-LinkedIn: www.linkedin.com/in/shahd-amer-721526256 | shahdamer067@gmail.com
