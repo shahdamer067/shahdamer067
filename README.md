@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Shahd 👋
+AI Engineer | Computer Science graduate, Alexandria University
 
-<!--
-**shahdamer067/shahdamer067** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build multi-agent AI systems, RAG chatbots, and IoT projects.
 
-Here are some ideas to get you started:
+## Tech
+Python · LangChain · CrewAI · FastAPI · LLMs · RAG · Streamlit · Flutter · Arduino/ESP32
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+- CMO.AI: multi-agent marketing platform (3rd place, SRTA-City 2025)
+- Mental Health RAG Chatbot
+- RAG-Guided Booking System
+
+## Contact
+LinkedIn: www.linkedin.com/in/shahd-amer-721526256 | shahdamer067@gmail.com
