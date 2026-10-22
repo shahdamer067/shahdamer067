@@ -4,7 +4,11 @@ AI Engineer | Computer Science graduate, Alexandria University
 I build multi-agent AI systems, RAG chatbots, and IoT projects.
 
 ## Tech
-Python · LangChain · CrewAI · FastAPI · LLMs · RAG · Streamlit · Flutter · Arduino/ESP32
+AI & GenAI
+Python LangChain CrewAI LLMs RAG FastAPI Streamlit
+
+Development & IoT
+Flutter Arduino ESP32 MQTT Firebase
 
 ## Featured projects
 - CMO.AI: multi-agent marketing platform (3rd place, SRTA-City 2025)
